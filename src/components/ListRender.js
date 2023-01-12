@@ -2,7 +2,7 @@ import { useState } from "react"
 
 const ListRender = () => {
 
-    const [users, setUsers ]= useState([
+    const [users, setUsers] = useState([
         { id: 1, name: 'Veri', age: 27 },
         { id: 2, name: 'Bruno', age: 27 },
         { id: 3, name: 'Renan', age: 27 },
